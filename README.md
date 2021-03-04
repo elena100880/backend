@@ -1,4 +1,4 @@
-#### Test exercise for PHP Developer position.
+### Test exercise for PHP Developer position.
 
 You can launch the project with `docker-compose up` command. Then open `/localhost/index.php/\<route_path\>`.
 
@@ -16,7 +16,7 @@ You can launch the project with `docker-compose up` command. Then open `/localho
  ***************************************************************
  
  
-Initial task: 
+### Initial task: 
 
 Na podstawie diagramu EER (plik schema.mwb), należy wykonać aplikację z funkcjami:
 

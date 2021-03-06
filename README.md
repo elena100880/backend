@@ -11,6 +11,8 @@ You can launch the project with `docker-compose up` command. Then open `/localho
    `/localhost/index.php/person` - list and filter of users with links to adding/editing persons.
 
    `/localhost/index.php/person/like/product` -  filter with select fields (used Select2-ajax plugin)  for user's preferencies/products lovers with links to adding/remowing users likes or links to adding/removing products lovers.
+   
+ `/var/data.db` file with filled example-tables is added to the repository.
  
  
  ***************************************************************
